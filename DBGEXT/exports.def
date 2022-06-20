@@ -1,0 +1,9 @@
+LIBRARY	"ksupnd"
+
+EXPORTS 
+DebugExtensionInitialize
+DebugExtensionUninitialize
+DebugExtensionCanUnload
+DebugExtensionUnload
+kdelay
+kalert
